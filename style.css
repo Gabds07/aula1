@@ -1,3 +1,24 @@
 body {
     font-family: Arial;
+    background-image: url(/aula1/img/foto-papel.jpg);
+}
+
+.titulo{
+
+    background-image: url(../aula1/img/Cafeteria.png);
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    padding: 16px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.cardapio{
+
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline black;
+
 }
